@@ -5,7 +5,7 @@
 
 [Projeto Easy Move] -  Esse projeto foi desenvolvido com base em aplicações de reservas de passagens. 
 
-##  Discplina: Engenharia de Software.
+##  Discpilina: Engenharia de Software.
 ##  Professor:  Me Geiza Caruline Costa.
 ============================================= 
 
